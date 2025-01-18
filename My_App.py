@@ -107,7 +107,7 @@ def Time_since_window():
     lbl_5 = ttk.Label(mainframe3, text="Preset Date: ", background='black', foreground='white', font=('poppins', 20))
     lbl_5.grid(row=3, column=0, pady=20,sticky="W")
 
-    lbl_6 = ttk.Label(mainframe3, text="22-09-2024", background='black', foreground='white', font=('poppins', 30))
+    lbl_6 = ttk.Label(mainframe3, text="18-01-2025", background='black', foreground='white', font=('poppins', 30))
     lbl_6.grid(row=4, column=1)
 
     lbl_7 = ttk.Label(mainframe3, text="It's Been: ", background='black', foreground='white', font=('poppins', 20))
